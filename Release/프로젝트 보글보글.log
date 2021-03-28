@@ -1,0 +1,16 @@
+﻿  Background.cpp
+  Light.cpp
+  Material.cpp
+  SolidSphere.cpp
+  Vector3f.cpp
+  소스.cpp
+C:\Users\82103\Desktop\대학교\2학년 1학기\프로그래밍 방법론\프로젝트_보글보글\프로젝트 보글보글\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\82103\Desktop\대학교\2학년 1학기\프로그래밍 방법론\프로젝트_보글보글\프로젝트 보글보글\소스.cpp(153,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\대학교\2학년 1학기\프로그래밍 방법론\프로젝트_보글보글\프로젝트 보글보글\소스.cpp(356,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\대학교\2학년 1학기\프로그래밍 방법론\프로젝트_보글보글\프로젝트 보글보글\소스.cpp(552,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  327 of 335 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    21 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  프로젝트 보글보글.vcxproj -> C:\Users\82103\Desktop\대학교\2학년 1학기\프로그래밍 방법론\프로젝트_보글보글\Release\프로젝트 보글보글.exe
